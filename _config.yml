@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-3581-6144"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/Waseem_Ashfaq"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
