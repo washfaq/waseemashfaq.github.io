@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* =========================
+   Increase Academic Icons Size
+   ========================= */
+.social a[class*="academicons-"] i,
+.social a[class*="academicons-"] svg {
+  font-size: 2rem !important;   /* adjust size as needed */
+  width: 2.5rem;                /* optional spacing */
+  height: 2.5rem;               /* optional spacing */
+  margin-right: 0.5rem;         /* spacing between icons */
+}
