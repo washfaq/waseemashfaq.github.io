@@ -1,10 +1,7 @@
-/* Make Academic/Research icons bigger */
-.social a[class*="academicons-"] {
-  font-size: 2.5rem !important;   /* adjust as needed */
-  width: 3rem;
-  height: 3rem;
-  line-height: 3rem;              /* center icon vertically */
-  margin-right: 0.5rem;
-  display: inline-block;
-  text-align: center;
+/* Make all Academic / research icons bigger */
+a[class*="academicons-"] {
+    font-size: 2.5rem !important;   /* adjust size as needed */
+    display: inline-block;
+    margin-right: 0.5rem;           /* spacing between icons */
+    vertical-align: middle;
 }
