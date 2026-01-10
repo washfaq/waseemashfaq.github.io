@@ -48,26 +48,41 @@
     text-align: left;     /* optional */
 }
 
-/* =========================
-   Custom Social & Academic Icons
-   ========================= */
+/* ==========================================================================
+   Custom Social & Academic Icons Styling
+   ========================================================================== */
 
+/* Make all social & academic icons bigger and evenly spaced */
 .sidebar .author-profile a[href*="orcid"],
 .sidebar .author-profile a[href*="researchgate"],
 .sidebar .author-profile a[href*="scholar.google"],
+.sidebar .author-profile a[href*="github"],
+.sidebar .author-profile a[href*="linkedin"],
+.sidebar .author-profile a[href*="twitter"],
 .sidebar .author-profile a[href*="academia.edu"] {
   svg, i {
-    font-size: 2.5rem !important;   /* Adjust icon size */
-    width: 3rem !important;
-    height: 3rem !important;
+    font-size: 2.5rem !important;   /* size of icon */
+    width: 3rem !important;          /* width container */
+    height: 3rem !important;         /* height container */
     display: inline-block !important;
-    margin-right: 0.5rem;
+    margin-right: 0.5rem;            /* spacing between icons */
     vertical-align: middle;
   }
-
-  &:hover svg,
-  &:hover i {
-    transform: scale(1.2);
-    transition: transform 0.2s ease-in-out;
-  }
 }
+
+/* Optional: Hover effect */
+.sidebar .author-profile a:hover svg,
+.sidebar .author-profile a:hover i {
+  transform: scale(1.1);
+  transition: transform 0.2s ease-in-out;
+}
+
+/* Optional: Center icons in sidebar if needed */
+.sidebar .author-profile .social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start; /* change to center to center horizontally */
+  align-items: center;
+  margin-top: 1rem;
+}
+
