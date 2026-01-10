@@ -41,36 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* =========================
-   Make all social & academic icons bigger
-   ========================= */
-
-/* Target all FontAwesome and Academicons icons in sidebar or masthead */
-.sidebar .author-profile a .academicon,
-.sidebar .author-profile a i,
-.sidebar .author-profile a svg {
-    font-size: 2.5rem !important;   /* icon size */
-    width: 2.5rem !important;
-    height: 2.5rem !important;
-    display: inline-block !important;
-    margin-right: 0.5rem;
-    vertical-align: middle;
-}
-
-/* Add hover effect */
-.sidebar .author-profile a:hover i,
-.sidebar .author-profile a:hover svg,
-.sidebar .author-profile a:hover .academicon {
-    transform: scale(1.2);
-    transition: transform 0.2s ease-in-out;
-}
-
-/* Optional: space icons evenly */
-.sidebar .author-profile .social {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start; /* or center */
-    align-items: center;
-    margin-top: 1rem;
-}
