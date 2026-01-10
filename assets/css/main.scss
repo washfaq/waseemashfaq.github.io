@@ -41,3 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Move site title to the left */
+.masthead .site-title {
+    margin-left: 1rem;   /* increase/decrease to move */
+    text-align: left;     /* optional */
+}
+
+
