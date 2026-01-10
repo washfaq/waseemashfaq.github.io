@@ -1,7 +1,46 @@
-/* Make all Academic / research icons bigger */
+/* ===============================================
+   CUSTOM ICON STYLES
+   Makes Academic, Research, and Social icons bigger
+   =============================================== */
+
+/* ----- Academicons (Google Scholar, ORCID, ResearchGate, etc.) ----- */
 a[class*="academicons-"] {
-    font-size: 4.5rem !important;   /* adjust size as needed */
+    font-size: 2.5rem !important;   /* Adjust icon size */
     display: inline-block;
-    margin-right: 0.5rem;           /* spacing between icons */
+    margin-right: 0.5rem;           /* Space between icons */
     vertical-align: middle;
+    color: inherit;                 /* Keep default text color */
+    transition: color 0.3s ease;    /* Smooth hover */
+}
+
+a[class*="academicons-"]:hover {
+    color: #f7941d;                 /* Optional hover color */
+}
+
+/* ----- FontAwesome (GitHub, Twitter, LinkedIn, etc.) ----- */
+a[class*="fa-"],
+a[class*="fab-"],
+a[class*="fas-"],
+a[class*="far-"] {
+    font-size: 2.5rem !important;   /* Adjust icon size */
+    display: inline-block;
+    margin-right: 0.5rem;           /* Space between icons */
+    vertical-align: middle;
+    color: inherit;                 /* Keep default text color */
+    transition: color 0.3s ease;
+}
+
+a[class*="fa-"]:hover,
+a[class*="fab-"]:hover,
+a[class*="fas-"]:hover,
+a[class*="far-"]:hover {
+    color: #f7941d;                 /* Optional hover color */
+}
+
+/* ----- Optional: Make sure icon container aligns nicely ----- */
+.social, .author-social {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;    /* Change to center if you want icons centered */
+    flex-wrap: wrap;
 }
