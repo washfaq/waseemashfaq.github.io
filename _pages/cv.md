@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% comment %}
 [📄 Download my CV (PDF)](/files/Waseem_Ashfaq_CV.pdf){: .btn .btn--primary }
+{% endcomment %}
 
 
 {% include base_path %}
