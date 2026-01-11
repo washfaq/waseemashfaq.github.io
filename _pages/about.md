@@ -16,13 +16,6 @@ I hold a PhD in Agricultural Sciences from the University of Melbourne and am pa
 
 ## Education
 
-- 🎓 **Ph.D. in Agricultural Sciences**, University of Melbourne, 2022  
-- 🎓 **M.S. in Plant Breeding and Genetics**, University of Agriculture Faisalabad, 2011  
-- 🎓 **B.S. in Agriculture**, University of Agriculture Faisalabad, 2009
-
-
-## Education
-
 - <i class="fa-solid fa-graduation-cap"></i> **Ph.D. in Agricultural Sciences**, University of Melbourne, 2022
-- <i class="fa-solid fa-graduation-cap"></i> **M.S. in Plant Breeding and Genetics**, University of Agriculture Faisalabad, 2011
-- <i class="fa-solid fa-graduation-cap"></i> **B.S. in Agriculture**, University of Agriculture Faisalabad, 2009
+- <i class="fa-solid fa-graduation-cap"></i> **M.Sc. in Plant Breeding and Genetics**, University of Agriculture Faisalabad, 2011
+- <i class="fa-solid fa-graduation-cap"></i> **B.Sc. in Agriculture**, University of Agriculture Faisalabad, 2009
