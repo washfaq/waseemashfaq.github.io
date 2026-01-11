@@ -46,19 +46,27 @@
    Header / Title bar color
    ========================= */
 
-.masthead {
-  background-color: #2e7d32 !important; /* green */
-  border-bottom: none;
+/* Actual visible bar */
+.masthead__inner-wrap {
+  background-color: #2e7d32 !important;
 }
-.masthead .site-title,
-.masthead a {
-  color: #ffffff !important;
-}
-.masthead .greedy-nav a {
+
+/* Site title */
+.masthead__inner-wrap .site-title {
   color: #ffffff !important;
 }
 
-.masthead .greedy-nav a:hover {
-  color: #c8e6c9 !important; /* light green on hover */
+/* Navigation links */
+.masthead__inner-wrap .greedy-nav a {
+  color: #ffffff !important;
 }
 
+/* Hover effect */
+.masthead__inner-wrap .greedy-nav a:hover {
+  color: #c8e6c9 !important;
+}
+
+/* Mobile menu icon */
+.masthead__inner-wrap button {
+  color: #ffffff !important;
+}
