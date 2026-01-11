@@ -1,15 +1,18 @@
-/* Icons */
+/* Icons: Font Awesome + Academicons */
 .author__urls .fa,
 .author__urls .fab,
 .author__urls .fas,
 .author__urls .ai {
     font-size: 1.8em;
-    width: 1.6em;
-    text-align: left;
+    width: 1.6em;        /* keeps icons aligned */
+    display: inline-block;
+    text-align: left;    /* aligns icons with text */
+    vertical-align: middle;
 }
 
-/* Text */
+/* Text next to icons */
 .author__urls li a {
     font-size: 1.2em;
     line-height: 1.4em;
+    vertical-align: middle;
 }
