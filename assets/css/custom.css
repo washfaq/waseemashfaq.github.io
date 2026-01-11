@@ -17,11 +17,8 @@
     text-align: left;
 }
 
-/* Push the first menu item (your title) to the right */
-.masthead__menu .visible-links {
-    display: flex !important;
-}
 
-.masthead__menu .visible-links > li.masthead__menu-item--lg {
-    margin-left: auto !important;
+/* Move the title slightly to the right without affecting other menu items */
+.masthead__menu-item--lg {
+    margin-left: 5px;   /* adjust this number to move more or less */
 }
