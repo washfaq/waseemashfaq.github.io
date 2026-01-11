@@ -18,9 +18,13 @@ nav.greedy-nav {
 }
 
 
+/* Control the spacing between "Home" and the rest of the menu */
+.masthead__menu-item--lg {
+    margin-right: 30px;   /* adjust this number to increase or decrease spacing */
+}
 
 
 /* Move the entire menu (except the title) to the right by a controlled amount */
 nav.greedy-nav .visible-links {
-    padding-left: 10px;   /* adjust this number to move more or less */
+    padding-left: 20px;   /* adjust this number to move more or less */
 }
