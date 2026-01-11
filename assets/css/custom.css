@@ -3,39 +3,6 @@ body {
   font-weight: 300;
 }
 
-/* Code blocks */
-.hljs {
-  font-size: 16px;
-  padding: 1rem;
-}
-
-/* Blog headers */
-.article-style .section.level1 h1,
-.article-style .section.level2 h2,
-.article-style .section.level3 h3,
-.article-style .section.level3 h4 {
-  padding-top: 0.75em;
-  padding-bottom: 0.75em;
-  font-weight: 300;
-}
-
-/* Info boxes */
-div.puzzle, div.fyi, div.demo, div.note, div.book,
-div.github, div.profile, div.bookmark, div.link,
-div.code, div.quote, div.reader {
-  padding: 1em;
-  margin: 1em 0;
-  padding-left: 100px;
-  background-size: 70px;
-  background-repeat: no-repeat;
-  background-position: 15px center;
-  min-height: 120px;
-  color: #ffffff;
-  background-color: #5a9998;
-  border: dashed 5px #32807f;
-}
-
-
 
 /* Sidebar icon column: center icons, control size */
 .author__urls .fa,
