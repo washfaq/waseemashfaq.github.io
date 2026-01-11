@@ -18,7 +18,6 @@
 }
 
 
-/* Move the title slightly to the right without affecting other menu items */
-.masthead__menu-item--lg {
-    margin-left: 30px;   /* adjust this number to move more or less */
+nav.greedy-nav .masthead__menu-item--lg {
+    margin-left: 20px !important;
 }
