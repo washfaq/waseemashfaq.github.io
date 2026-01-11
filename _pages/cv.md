@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<!-- [📄 Download my CV (PDF)](/files/Waseem_Ashfaq_CV.pdf){: .btn .btn--primary } -->
+<!---->
+[📄 Download my CV (PDF)](/files/Waseem_Ashfaq_CV.pdf){: .btn .btn--primary } 
 
 
 {% include base_path %}
