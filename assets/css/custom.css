@@ -139,14 +139,12 @@ div.reader {
 }
 
 
-
-
-.masthead__menu-item:nth-child(2) {
-    margin-left: 160px;
+/* Add spacing after the first item ("Home") */
+nav.greedy-nav .visible-links > li:first-child {
+    margin-right: 160px;
 }
 
-
-/* Move the entire menu (except the title) to the right by a controlled amount */
+/* Shift the entire menu slightly right */
 nav.greedy-nav .visible-links {
-    padding-left: 30px;   /* adjust this number to move more or less */
+    margin-left: 30px;
 }
