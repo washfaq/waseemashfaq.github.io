@@ -1,5 +1,15 @@
+/* Icons */
 .author__urls .fa,
 .author__urls .fab,
-.author__urls .fas {
+.author__urls .fas,
+.author__urls .ai {
     font-size: 1.6em;
+    width: 1.4em;
+    text-align: center;
+}
+
+/* Text */
+.author__urls li a {
+    font-size: 1.15em;
+    line-height: 1.4em;
 }
