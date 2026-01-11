@@ -34,3 +34,30 @@ div.code, div.quote, div.reader {
   background-color: #5a9998;
   border: dashed 5px #32807f;
 }
+
+
+
+/* Sidebar icon column: center icons, control size */
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas,
+.author__urls .ai {
+    font-size: 1.4em;        /* slightly smaller icons */
+    width: 1.8em;            /* fixed column width for alignment */
+    display: inline-block;   /* ensures width is respected */
+    vertical-align: middle;  /* aligns icon with text */
+}
+
+
+
+
+/* Control the spacing between "Home" and the rest of the menu */
+.masthead__menu-item--lg {
+    margin-right: 160px;   /* adjust this number to increase or decrease spacing */
+}
+
+
+/* Move the entire menu (except the title) to the right by a controlled amount */
+nav.greedy-nav .visible-links {
+    padding-left: 30px;   /* adjust this number to move more or less */
+}
