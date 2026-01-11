@@ -41,3 +41,24 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* =========================
+   Header / Title bar color
+   ========================= */
+
+.masthead {
+  background-color: #2e7d32 !important; /* green */
+  border-bottom: none;
+}
+.masthead .site-title,
+.masthead a {
+  color: #ffffff !important;
+}
+.masthead .greedy-nav a {
+  color: #ffffff !important;
+}
+
+.masthead .greedy-nav a:hover {
+  color: #c8e6c9 !important; /* light green on hover */
+}
+
