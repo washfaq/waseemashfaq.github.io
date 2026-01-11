@@ -7,7 +7,6 @@
     font-size: 1.4em;        /* slightly smaller icons */
     width: 1.8em;            /* fixed column width for alignment */
     display: inline-block;   /* ensures width is respected */
-    text-align: center;      /* centers the icon inside its column */
     vertical-align: middle;  /* aligns icon with text */
 }
 
@@ -15,7 +14,6 @@
 .author__urls li a {
     font-size: 1.15em;
     line-height: 1.4em;
-    vertical-align: middle;
     text-align: left;
 }
 
