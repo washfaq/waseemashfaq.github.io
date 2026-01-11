@@ -10,29 +10,14 @@
     vertical-align: middle;  /* aligns icon with text */
 }
 
-/* Sidebar text: left aligned, clean spacing */
-.author__urls li a {
-    font-size: 1.15em;
-    line-height: 1.4em;
-    text-align: left;
-}
-
-
-/* Change the header bar background color */
+/* Header bar background only */
 .masthead,
+.masthead__inner-wrap,
 nav.greedy-nav {
     background-color: #88bdbc !important;
 }
 
-/* Make all header text white */
-nav.greedy-nav a,
-nav.greedy-nav .masthead__menu-item a,
-nav.greedy-nav .masthead__menu-item--lg a {
-    color: #ffffff !important;
-}
-
-/* Make the theme toggle icon white too */
-#theme-icon {
+nav.greedy-nav a {
     color: #ffffff !important;
 }
 
