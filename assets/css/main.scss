@@ -67,14 +67,3 @@
   background: none !important;      /* remove hover background pop */
 }
 
-/* Hover effect on links: only color change */
-.masthead__inner-wrap .greedy-nav a:hover {
-  color: #e0f0ef !important; /* slightly lighter white/green for hover */
-  background: none !important; /* no background pop */
-}
-
-/* Mobile menu icon (hamburger) */
-.masthead__inner-wrap button {
-  color: #ffffff !important;
-  background: none !important;
-}
