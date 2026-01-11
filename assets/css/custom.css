@@ -10,21 +10,32 @@
     vertical-align: middle;  /* aligns icon with text */
 }
 
-/* Header bar background only */
+/* Change the header bar background color */
 .masthead,
-.masthead__inner-wrap,
 nav.greedy-nav {
     background-color: #88bdbc !important;
+}
+
+/* Make all header text white */
+nav.greedy-nav a,
+nav.greedy-nav .masthead__menu-item a,
+nav.greedy-nav .masthead__menu-item--lg a {
+    color: #ffffff !important;
+}
+
+/* Make the theme toggle icon white too */
+#theme-icon {
+    color: #88bdbc !important;
 }
 
 
 /* Control the spacing between "Home" and the rest of the menu */
 .masthead__menu-item--lg {
-    margin-right: 30px;   /* adjust this number to increase or decrease spacing */
+    margin-right: 60px;   /* adjust this number to increase or decrease spacing */
 }
 
 
 /* Move the entire menu (except the title) to the right by a controlled amount */
 nav.greedy-nav .visible-links {
-    padding-left: 20px;   /* adjust this number to move more or less */
+    padding-left: 30px;   /* adjust this number to move more or less */
 }
