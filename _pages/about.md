@@ -17,7 +17,7 @@ I hold a PhD in Agricultural Sciences from the University of Melbourne and am pa
 <div style="display:flex; justify-content:center; align-items:flex-start; gap:30px; margin-top:20px;">
 
   <figure style="text-align:center; margin:0;">
-    <img src="/images/myphoto.JPG" width="260" style="display:block; border-radius:10px; margin:0 auto;" />
+    <img src="/images/myphoto.JPG" width="360" style="display:block; border-radius:10px; margin:0 auto;" />
     <figcaption style="font-size:14px; margin-top:8px; color:#555;">
       Monsanto corn breeding station, Thomasboro, IL, USA
     </figcaption>
