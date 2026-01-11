@@ -21,3 +21,8 @@
 .masthead__menu .site-title {
     margin-left: auto !important;
 }
+
+.masthead__inner-wrap {
+    display: flex !important;
+    justify-content: flex-end !important;
+}
