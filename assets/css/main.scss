@@ -42,65 +42,10 @@
     "vendor/font-awesome/brands"
 ;
 
-/* ===========================
-   FULL WIDTH HEADER & WHITE TEXT
-=========================== */
-
-/* Make the top masthead bar full width with your color */
-.masthead {
-  width: 100% !important;
-  background-color: #88bdbc !important; /* full width bar color */
-  border-bottom: none !important;
+/* Make sidebar icons larger */
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas {
+    font-size: 1.5em;   /* Increase to 2em, 2.5em, etc. */
 }
 
-/* Remove inner wrapper background so bar color shows fully */
-.masthead__inner-wrap {
-  background: transparent !important;
-  width: 100% !important;
-  padding-left: 1rem;   /* optional: adjust horizontal spacing */
-  padding-right: 1rem;  /* optional */
-}
-
-/* Site title text color */
-.masthead__inner-wrap .site-title {
-  color: #ffffff !important;
-}
-
-/* Navigation links text color */
-.masthead__inner-wrap .greedy-nav a {
-  color: #ffffff !important;
-  background: none !important; /* remove any pop/hover backgrounds */
-}
-
-/* Hover effect: only text changes color */
-.masthead__inner-wrap .greedy-nav a:hover {
-  color: #e0f0ef !important; /* slightly lighter white */
-  background: none !important;
-}
-
-/* Mobile menu (hamburger icon) */
-.masthead__inner-wrap button {
-  color: #ffffff !important;
-  background: none !important;
-}
-
-/* ===========================
-   Move site title to left only
-=========================== */
-
-.masthead__inner-wrap .site-title {
-  margin-left: 0 !important;   /* remove any theme margin */
-  padding-left: 1rem !important;  /* remove padding if present */
-  text-align: left !important;  /* ensure text is aligned left */
-}
-
-/* =========================
-   Increase Academic Icons Size
-   ========================= */
-.social a[class*="academicons-"] i,
-.social a[class*="academicons-"] svg {
-  font-size: 2rem !important;   /* adjust size as needed */
-  width: 2.5rem;                /* optional spacing */
-  height: 2.5rem;               /* optional spacing */
-  margin-right: 0.5rem;         /* spacing between icons */
-}
