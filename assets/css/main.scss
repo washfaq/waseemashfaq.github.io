@@ -41,36 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* =========================
-   Header / Title bar color
-   ========================= */
-
-/* Actual visible bar */
-.masthead__inner-wrap {
-  background-color: #2e7d32 !important;
-}
-
-/* Site title */
-.masthead__inner-wrap .site-title {
-  color: #ffffff !important;
-}
-
-/* Navigation links */
-.masthead__inner-wrap .greedy-nav a {
-  color: #ffffff !important;
-}
-
-/* Hover effect */
-.masthead__inner-wrap .greedy-nav a:hover {
-  color: #c8e6c9 !important;
-}
-
-/* Mobile menu icon */
-.masthead__inner-wrap button {
-  color: #ffffff !important;
-}
-
-body {
-  background: red !important;
-}
