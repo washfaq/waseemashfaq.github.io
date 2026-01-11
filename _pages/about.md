@@ -14,7 +14,7 @@ Before joining DPIRD, I was a Postdoctoral Research Fellow in Crop Production at
 I hold a PhD in Agricultural Sciences from the University of Melbourne and am passionate about improving the profitability and sustainability of dryland farming systems.
 
 
-<div style="display:flex; justify-content:center; gap:30px; margin-top:20px;">
+<div style="display:flex; justify-content:center; gap:20px; margin-top:20px;">
 
   <figure style="text-align:center;">
     <img src="/images/myphoto.JPG" width="260" style="border-radius:10px;" />
