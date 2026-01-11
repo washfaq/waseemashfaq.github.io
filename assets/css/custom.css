@@ -132,8 +132,8 @@ div.reader {
 .author__urls .fab,
 .author__urls .fas,
 .author__urls .ai {
-    font-size: 1.4em;        /* slightly smaller icons */
-    width: 1.8em;            /* fixed column width for alignment */
+    font-size: 1.8em;        /* slightly smaller icons */
+    width: 2.0em;            /* fixed column width for alignment */
     display: inline-block;   /* ensures width is respected */
     vertical-align: middle;  /* aligns icon with text */
 }
