@@ -18,6 +18,7 @@
 }
 
 
-nav.greedy-nav .masthead__menu-item--lg {
-    margin-left: 20px !important;
+/* Move the entire menu (except the title) to the right by a controlled amount */
+nav.greedy-nav .visible-links {
+    padding-left: 20px;   /* adjust this number to move more or less */
 }
