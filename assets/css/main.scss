@@ -43,39 +43,34 @@
 ;
 
 /* =========================
-   FORCE HEADER COLOR & POSITION
+   Header / Title Bar
    ========================= */
-
-/* Full header bar */
-.masthead,
 .masthead__inner-wrap {
-  background-color: #2e7d32 !important; /* green */
+    background-color: #2e7d32 !important; /* green */
 }
 
-/* Site title (Waseem Ashfaq, Ph.D.) */
-.masthead__menu-item--lg a {
-  color: #ffffff !important;
-  font-weight: 600;
+.masthead__inner-wrap .site-title,
+.masthead__inner-wrap .masthead__menu-item a {
+    color: #ffffff !important;
 }
 
-/* Move site title LEFT */
-.masthead__menu-item--lg {
-  margin-left: -2rem;   /* adjust: -1rem, -2rem, -3rem */
+.masthead__inner-wrap .greedy-nav a:hover {
+    color: #c8e6c9 !important;
 }
 
-/* Navigation links */
-.greedy-nav a {
-  color: #ffffff !important;
+.masthead__inner-wrap button {
+    color: #ffffff !important; /* mobile menu icon */
 }
 
-/* Hover effect */
-.greedy-nav a:hover {
-  color: #c8e6c9 !important;
+/* =========================
+   Academic & social icons
+   ========================= */
+a[href*="orcid"], 
+a[href*="researchgate"],
+a[href*="scholar.google"] {
+  svg, i {
+    font-size: 2.5rem !important;
+    width: 3rem !important;
+    height: 3rem !important;
+  }
 }
-
-/* Mobile menu icon */
-.greedy-nav button,
-.greedy-nav button .navicon {
-  color: #ffffff !important;
-}
-
