@@ -14,3 +14,8 @@ Before joining DPIRD, I was a Postdoctoral Research Fellow in Crop Production at
 I hold a PhD in Agricultural Sciences from the University of Melbourne and am passionate about improving the profitability and sustainability of dryland farming systems.
 
 
+## Education
+
+- 🎓 **Ph.D. in Agricultural Sciences**, University of Melbourne, 2022  
+- 🎓 **M.S. in Plant Breeding and Genetics**, University of Agriculture Faisalabad, 2011  
+- 🎓 **B.S. in Agriculture**, University of Agriculture Faisalabad, 2009
