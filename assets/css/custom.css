@@ -17,12 +17,11 @@
     text-align: left;
 }
 
-/* Move only the site title to the right */
-.masthead__menu .site-title {
-    margin-left: auto !important;
+/* Push the first menu item (your title) to the right */
+.masthead__menu .visible-links {
+    display: flex !important;
 }
 
-.masthead__inner-wrap {
-    display: flex !important;
-    justify-content: flex-end !important;
+.masthead__menu .visible-links > li.masthead__menu-item--lg {
+    margin-left: auto !important;
 }
