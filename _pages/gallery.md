@@ -1,5 +1,9 @@
+---
 title: "Gallery"
 permalink: /gallery/
+layout: single
+author_profile: true
+---
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; margin-top:20px;">
 
