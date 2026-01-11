@@ -17,6 +17,7 @@
     text-align: left;
 }
 
-.site-title {
-    margin-left: auto;
+/* Move only the site title to the right */
+.masthead__menu .site-title {
+    margin-left: auto !important;
 }
