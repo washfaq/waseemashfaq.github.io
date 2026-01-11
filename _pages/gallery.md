@@ -1,1 +1,2 @@
-
+title: "Gallery"
+permalink: /gallery/
