@@ -1,1 +1,5 @@
-
+.author__urls .fa,
+.author__urls .fab,
+.author__urls .fas {
+    font-size: 1.6em;
+}
