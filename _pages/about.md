@@ -15,6 +15,6 @@ I hold a PhD in Agricultural Sciences from the University of Melbourne and am pa
 
 
 <div style="display:flex; justify-content:center; gap:20px; margin-top:20px;">
-  <img src="/images/myphoto.JPG" width="260" style="border-radius:10px;" />
-  <img src="/images/IMG_5285.JPG" width="260" style="border-radius:10px;" />
+  <img src="/images/myphoto.JPG" width="500" style="border-radius:10px;" />
+  <img src="/images/IMG_5285.JPG" width="500" style="border-radius:10px;" />
 </div>
