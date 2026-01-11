@@ -43,30 +43,38 @@
 ;
 
 /* =========================
-   Header / Title bar color
+   Header / Title bar full width color
    ========================= */
 
-/* Actual visible bar */
-.masthead__inner-wrap {
-  background-color: #88bdbc !important; /* updated greenish-blue */
+/* Full bar background */
+.masthead {
+  background-color: #88bdbc !important; /* full width header */
 }
 
-/* Site title */
+/* Inner wrapper (nav + title) text color */
+.masthead__inner-wrap {
+  background-color: transparent !important; /* remove inner background if any */
+}
+
+/* Site title text */
 .masthead__inner-wrap .site-title {
   color: #ffffff !important; /* white text */
 }
 
-/* Navigation links */
+/* Navigation links text */
 .masthead__inner-wrap .greedy-nav a {
-  color: #ffffff !important; /* white links */
+  color: #ffffff !important; /* white text */
+  background: none !important;      /* remove hover background pop */
 }
 
-/* Hover effect on nav links */
+/* Hover effect on links: only color change */
 .masthead__inner-wrap .greedy-nav a:hover {
-  color: #dceae8 !important; /* light hover color, tweak if needed */
+  color: #e0f0ef !important; /* slightly lighter white/green for hover */
+  background: none !important; /* no background pop */
 }
 
 /* Mobile menu icon (hamburger) */
 .masthead__inner-wrap button {
-  color: #ffffff !important; /* white icon */
+  color: #ffffff !important;
+  background: none !important;
 }
