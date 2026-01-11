@@ -20,5 +20,5 @@
 
 /* Move the entire menu (except the title) to the right by a controlled amount */
 nav.greedy-nav .visible-links {
-    padding-left: 40px;   /* adjust this number to move more or less */
+    padding-left: 50px;   /* adjust this number to move more or less */
 }
