@@ -141,9 +141,8 @@ div.reader {
 
 
 
-/* Control the spacing between "Home" and the rest of the menu */
-.masthead__menu-item--lg {
-    margin-right: 160px;   /* adjust this number to increase or decrease spacing */
+.masthead__menu-item:nth-child(2) {
+    margin-left: 160px;
 }
 
 
