@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist in Farming Systems"
   location         : "Perth, Australia"
-  employer         : ""
+  employer         : # URL
   uri              : # URL
   email            : "waseemishfaq@gmail.com" 
 
