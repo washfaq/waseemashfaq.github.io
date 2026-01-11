@@ -42,28 +42,55 @@
     "vendor/font-awesome/brands"
 ;
 
-/* =========================
-   Header / Title bar full width color
-   ========================= */
+/* ===========================
+   FULL WIDTH HEADER & WHITE TEXT
+=========================== */
 
-/* Full bar background */
+/* Make the top masthead bar full width with your color */
 .masthead {
-  background-color: #88bdbc !important; /* full width header */
+  width: 100% !important;
+  background-color: #88bdbc !important; /* full width bar color */
+  border-bottom: none !important;
 }
 
-/* Inner wrapper (nav + title) text color */
+/* Remove inner wrapper background so bar color shows fully */
 .masthead__inner-wrap {
-  background-color: transparent !important; /* remove inner background if any */
+  background: transparent !important;
+  width: 100% !important;
+  padding-left: 1rem;   /* optional: adjust horizontal spacing */
+  padding-right: 1rem;  /* optional */
 }
 
-/* Site title text */
+/* Site title text color */
 .masthead__inner-wrap .site-title {
-  color: #ffffff !important; /* white text */
+  color: #ffffff !important;
 }
 
-/* Navigation links text */
+/* Navigation links text color */
 .masthead__inner-wrap .greedy-nav a {
-  color: #ffffff !important; /* white text */
-  background: none !important;      /* remove hover background pop */
+  color: #ffffff !important;
+  background: none !important; /* remove any pop/hover backgrounds */
+}
+
+/* Hover effect: only text changes color */
+.masthead__inner-wrap .greedy-nav a:hover {
+  color: #e0f0ef !important; /* slightly lighter white */
+  background: none !important;
+}
+
+/* Mobile menu (hamburger icon) */
+.masthead__inner-wrap button {
+  color: #ffffff !important;
+  background: none !important;
+}
+
+/* ===========================
+   Move site title to left only
+=========================== */
+
+.masthead__inner-wrap .site-title {
+  margin-left: 0 !important;   /* remove any theme margin */
+  padding-left: 1rem !important;  /* remove padding if present */
+  text-align: left !important;  /* ensure text is aligned left */
 }
 
