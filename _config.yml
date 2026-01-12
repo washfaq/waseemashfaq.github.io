@@ -24,9 +24,9 @@ repository               : "washfaq/waseemashfaq.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr Waseem Ashfaq"
+  name             : "Waseem Ashfaq"
   pronouns         : # example: "she/her"  
-  bio              : "Research Scientist in Farming Systems"
+  bio              : "Research Scientist"
   location         : "Perth, Australia"
   employer         : # URL
   uri              : # URL
