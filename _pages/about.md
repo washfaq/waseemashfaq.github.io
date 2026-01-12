@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I have over 13 years of experience in agricultural research, specializing in cereal physiology, agronomy, and farming systems research. I currently work as a Research Scientist with the Department of Primary Industries and Regional Development (DPIRD), where I focus on agronomic and systems innovations to enhance farm profitability in the low- and medium-rainfall zones of Western Australia.
+I’m glad you stopped by. 
 
-Before joining DPIRD, I was a Postdoctoral Research Fellow in Crop Production at the University of Melbourne, where I contributed to redesigning broadacre farming systems in Southeast Victoria and and integrating dual-purpose winter wheat to bridge the winter feed gap in mixed farming systems. I have also collaborated and visited CIMMYT’s Campo Experimental Norman E. Borlaug wheat research station in Ciudad Obregón, Mexico as part of my PhD research.
+I am an agricultural researcher working across cereal physiology, agronomy, and farming systems research, with a strong focus on improving the profitability and sustainability of dryland farming systems.
 
-I hold a PhD in Agricultural Sciences from the University of Melbourne and am passionate about improving the profitability and sustainability of dryland farming systems.
+I currently work as a Research Scientist with the Department of Primary Industries and Regional Development (DPIRD), where I focus on agronomic and systems innovations to enhance farm profitability in the low- and medium-rainfall zones of Western Australia. My work is driven by practical impact - helping farmers adapt to climate variability while maintaining productive, resilient systems.
 
+Before joining DPIRD, I was a Postdoctoral Research Fellow in Crop Production at the University of Melbourne, where I contributed to redesigning broadacre farming systems in Southeast Victoria. During this time, I also worked on integrating dual-purpose winter wheat into mixed farming systems to help bridge the winter feed gap. As part of my PhD research, I also collaborated with CIMMYT and spent time at the Norman E. Borlaug research station in Ciudad Obregón, Mexico.
+
+I hold a PhD in Agricultural Sciences from the University of Melbourne and am passionate about translating research into real-world outcomes for dryland agriculture.
 
 ## Education
 
