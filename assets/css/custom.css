@@ -117,9 +117,6 @@ div.reader {
 
 
 
-
-
-
 /* Sidebar icon column: center icons, control size */
 .author__urls .fa,
 .author__urls .fab,
@@ -132,14 +129,23 @@ div.reader {
 }
 
 
-/* Add spacing after the first item ("Home") */
-nav.greedy-nav .visible-links > li:first-child {
-    margin-right: 160px !important;
+
+@media (max-width: 600px) {
+
+  /* Center profile photo */
+  .author__avatar img {
+      margin: 0 auto;
+      display: block;
+  }
+
+  /* Center name + bio */
+  .author__content h3,
+  .author__content p {
+      text-align: center;
+  }
+
+  /* Keep icons vertical and centered (default behaviour) */
+  .author__urls {
+      text-align: center;
+  }
 }
-
-/* Shift the entire menu slightly right */
-nav.greedy-nav .visible-links {
-    margin-left: 30px !important;
-}
-
-
