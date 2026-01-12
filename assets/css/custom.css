@@ -149,3 +149,35 @@ div.reader {
       text-align: center;
   }
 }
+
+
+
+/* Make name larger like bcullen */
+.author__content h3 {
+    font-size: 1.9em;      /* bigger name */
+    font-weight: 400;      /* slightly stronger than your 300 body weight */
+    margin-bottom: 8px;
+}
+
+/* Make bio same size as bcullen */
+.author__content p {
+    font-size: 1.05em;     /* clean readable size */
+    line-height: 1.5;
+    font-weight: 300;      /* matches your site’s typography */
+    margin-top: 0;
+}
+
+
+
+@media (max-width: 600px) {
+  .author__content h3 {
+      text-align: center;
+      font-size: 2.1em;   /* slightly larger on mobile */
+  }
+
+  .author__content p {
+      text-align: center;
+      font-size: 1.1em;
+  }
+}
+
