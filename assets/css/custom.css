@@ -177,20 +177,20 @@ div.reader {
 
 
 /* =========================
-   Make site NAME bigger (header only)
+   Make AUTHOR name (below photo) bigger
    ========================= */
 
-/* This is the name link: "Waseem Ashfaq" */
-.masthead__menu-item--lg > a {
-  font-size: 2.4rem !important;
+.author__name {
+  font-size: 2.2rem !important;   /* desktop size */
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.25;
 }
 
-/* Optional: slightly smaller on mobile */
+/* Optional: mobile adjustment */
 @media (max-width: 768px) {
-  .masthead__menu-item--lg > a {
-    font-size: 2rem !important;
+  .author__name {
+    font-size: 2.5rem !important; /* bigger on mobile if you want */
   }
 }
+
 
