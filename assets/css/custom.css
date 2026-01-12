@@ -182,7 +182,7 @@ div.reader {
 
 /* Name */
 .author__name {
-  font-size: 2.5rem !important;  /* bigger name */
+  font-size: 2.2rem !important;  /* bigger name */
   font-weight: 500;
   line-height: 1.2;
   text-align: center;            /* center under photo */
@@ -191,7 +191,7 @@ div.reader {
 
 /* Bio */
 .author__bio {
-  font-size: 1.2rem;             /* adjust as needed */
+  font-size: 1.5rem;             /* adjust as needed */
   font-weight: 400;
   text-align: center;
   color: #555;                   /* optional: lighter gray */
