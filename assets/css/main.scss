@@ -42,3 +42,69 @@
     "vendor/font-awesome/brands"
 ;
 
+
+
+/* =========================
+   MOBILE-ONLY LAYOUT
+   ========================= */
+
+@media (max-width: 768px) {
+
+  /* ---- Header layout ---- */
+
+  .masthead__menu {
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  /* Center HOME only */
+  .masthead__menu-item--lg {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    margin: 0 !important;
+  }
+
+  /* Hide other menu items on mobile (hamburger only) */
+  .masthead__menu-item:not(.masthead__menu-item--lg):not(#theme-toggle) {
+    display: none;
+  }
+
+  /* ---- Author section ---- */
+
+  .author__avatar {
+    text-align: center;
+  }
+
+  .author__avatar img {
+    max-width: 140px;
+    margin: 0 auto;
+  }
+
+  .author__content {
+    text-align: center;
+  }
+
+  .author__name {
+    font-size: 1.6rem;
+    margin-top: 0.5rem;
+  }
+
+  .author__bio {
+    text-align: center;
+  }
+
+  /* ---- Icons row ---- */
+
+  .author__urls {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .author__urls li {
+    margin: 0;
+  }
+
+}
