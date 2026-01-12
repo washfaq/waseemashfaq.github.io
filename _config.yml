@@ -23,7 +23,7 @@ repository               : "washfaq/waseemashfaq.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.jpg"
   name             : "Waseem Ashfaq"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
