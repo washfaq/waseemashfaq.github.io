@@ -155,7 +155,7 @@ div.reader {
 /* Make name larger like bcullen */
 .author__content h3 {
     font-size: 1.9em;      /* bigger name */
-    font-weight: 400;      /* slightly stronger than your 300 body weight */
+    font-weight: 600;      /* slightly stronger than your 300 body weight */
     margin-bottom: 8px;
 }
 
@@ -163,7 +163,7 @@ div.reader {
 .author__content p {
     font-size: 1.05em;     /* clean readable size */
     line-height: 1.5;
-    font-weight: 300;      /* matches your site’s typography */
+    font-weight: 400;      /* matches your site’s typography */
     margin-top: 0;
 }
 
