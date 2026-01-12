@@ -8,9 +8,9 @@ author_profile: true
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px; margin-top:20px;">
 
 <figure style="text-align:center; margin:0;">
-    <img src="/images/graduation.JPG" width="260" style="border-radius:10px;" />
+    <img src="/images/graduation.jpg" width="260" style="border-radius:10px;" />
     <figcaption style="font-size:14px; margin-top:8px; color:#555;">
-      Receiving PhD degree at the University of Melbourne graduation ceremony 2024
+      Receiving a PhD degree at the University of Melbourne graduation ceremony 2024
     </figcaption>
   </figure>
 
