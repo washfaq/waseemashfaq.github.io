@@ -191,7 +191,7 @@ div.reader {
 
 /* Bio */
 .author__bio {
-  font-size: 1.5rem;             /* adjust as needed */
+  font-size: 2rem;             /* adjust as needed */
   font-weight: 400;
   text-align: center;
   color: #555;                   /* optional: lighter gray */
