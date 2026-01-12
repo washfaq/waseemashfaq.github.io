@@ -176,9 +176,8 @@ div.reader {
 }
 
 /* ===== Make site title (name) bigger ===== */
-.site-title,
-.masthead__menu-item--lg a {
-  font-size: 2.2rem !important;  /* increase size */
+.masthead .masthead__menu-item--lg > a {
+  font-size: 2.4rem !important;
   font-weight: 600;
   line-height: 1.2;
 }
