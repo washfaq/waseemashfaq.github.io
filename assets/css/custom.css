@@ -160,21 +160,6 @@ div.reader {
 
 
 
-/* Make name larger like bcullen */
-.author__content h3 {
-    font-size: 1.9em;      /* bigger name */
-    font-weight: 600;      /* slightly stronger than your 300 body weight */
-    margin-bottom: 8px;
-}
-
-/* Make bio same size as bcullen */
-.author__content p {
-    font-size: 1.05em;     /* clean readable size */
-    line-height: 1.5;
-    font-weight: 400;      /* matches your site’s typography */
-    margin-top: 0;
-}
-
 
 
 @media (max-width: 600px) {
@@ -190,9 +175,3 @@ div.reader {
 }
 
 
-.author__avatar img {
-    width: 120px;
-    height: 120px;
-    object-fit: cover;
-    border-radius: 50%;
-}
