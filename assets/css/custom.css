@@ -227,3 +227,39 @@ div.reader {
     height: 140px !important;
   }
 }
+
+
+
+
+
+
+
+
+
+
+/* Always show icons, remove follow button behavior */
+.author__urls {
+  display: block !important;   /* force visible */
+  text-align: center;          /* center under name */
+  margin-top: 1rem;
+}
+
+.btn.btn-outline-primary.btn-sm {
+  display: none !important;    /* hide the Follow button */
+}
+
+/* Mobile layout adjustments */
+@media (max-width: 768px) {
+  .author__avatar {
+    display: block;
+    margin: 0 auto 1rem auto;  /* center photo */
+  }
+  .author__name {
+    text-align: center;
+    margin-bottom: 0.5rem;
+  }
+  .author__urls {
+    text-align: center;
+    margin-top: 0.5rem;
+  }
+}
