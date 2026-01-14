@@ -6,7 +6,7 @@ permalink: /publication/combined_stress
 excerpt: ""
 date: 2022-08-03
 venue: 'Frontiers in Plant Science'
-paperurl: 'files/combined_stress.pdf'
+paperurl: '/files/combined_stress.pdf'
 bibtexurl: '/files/Ashfaq2022etal.bib'
 citation: "Ashfaq, W., Fuentes, S., Brodie, G., & Gupta, D. (2022). The role of silicon in regulating physiological and biochemical mechanisms of contrasting bread wheat cultivars under terminal drought and heat stress environments. <i>Frontiers in Plant Science</i>, 13, 955490."
 ---
