@@ -2,7 +2,8 @@
 title: "Silicon improves root system and canopy physiology in wheat under drought stress"
 collection: publications
 category: manuscripts
-permalink: /publications/Silicon_and_root.pdf
+permalink: /publications/Silicon_and_root
+excerpt: ""
 date: 2023-10-20
 venue: 'Plant and Soil'
 paperurl: '/files/Silicon_and_root.pdf'
