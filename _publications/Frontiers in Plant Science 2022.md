@@ -2,7 +2,7 @@
 title: "The role of silicon in regulating physiological and biochemical mechanisms of contrasting bread wheat cultivars under terminal drought and heat stress environments"
 collection: publications
 category: manuscripts
-permalink: /publication/silicon-wheat-heat-drought
+permalink: /publication/combined_stress
 excerpt: ""
 date: 2022-08-03
 venue: 'Frontiers in Plant Science'
