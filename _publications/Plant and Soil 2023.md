@@ -7,6 +7,7 @@ excerpt: 'This study investigates how silicon improves wheat root and canopy phy
 date: 2023-10-20
 venue: 'Plant and Soil'
 paperurl: 'https://doi.org/10.1007/s11104‑023‑06202‑4'
+bibtexurl: "/files/Ashfaq2023silicon.bib"
 citation: "Ashfaq, W., Brodie, G., Fuentes, S., Pang, A., & Gupta, D. (2024). Silicon improves root system and canopy physiology in wheat under drought stress. Plant and Soil, 502, 279–296. https://doi.org/10.1007/s11104‑023‑06202‑4"
 ---
 Aims
