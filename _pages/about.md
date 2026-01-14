@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I’m glad you stopped by. 
 
 I am an agricultural researcher working across cereal physiology, agronomy, and farming systems research, with a strong focus on improving the profitability and sustainability of dryland farming systems.
