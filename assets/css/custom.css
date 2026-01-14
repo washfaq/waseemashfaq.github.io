@@ -212,21 +212,14 @@ div.reader {
    Author photo size
    ========================= */
 .author__avatar {
-  width: 180px !important;       /* adjust width as needed */
-  height: 180px !important;      /* adjust height as needed */
+  width: 1080px !important;       /* adjust width as needed */
+  height: 1080px !important;      /* adjust height as needed */
   border-radius: 50%;            /* make it circular */
   display: block;                /* ensures centering works */
   margin: 0 auto 1rem auto;      /* center horizontally and add bottom spacing */
   object-fit: cover;             /* keep proportions and fill the circle */
 }
 
-/* Optional: smaller on mobile */
-@media (max-width: 768px) {
-  .author__avatar {
-    width: 140px !important;
-    height: 140px !important;
-  }
-}
 
 
 
