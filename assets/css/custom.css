@@ -208,25 +208,7 @@ div.reader {
   }
 }
 
-/* =========================
-   Author photo size
-   ========================= */
-/* Author avatar container */
-.author__avatar {
-  display: block;
-  margin: 0 auto 1rem auto;   /* center container */
-  text-align: center;
-}
 
-/* Author avatar image */
-.author__avatar img {
-  width: 300px !important;    /* equal width and height */
-  height: 300px !important;
-  border-radius: 50%;         /* makes it perfectly round */
-  object-fit: cover;          /* crop/scale to fill circle */
-  display: block;
-  margin: 0 auto;
-}
 
 
 
