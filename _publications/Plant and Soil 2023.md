@@ -9,6 +9,7 @@ paperurl: 'https://doi.org/10.1007/s11104‑023‑06202‑4'
 bibtexurl: "/files/Ashfaq2023silicon.bib"
 citation: "Ashfaq, W., Brodie, G., Fuentes, S., Pang, A., & Gupta, D. (2024). Silicon improves root system and canopy physiology in wheat under drought stress. Plant and Soil, 502, 279–296. https://doi.org/10.1007/s11104‑023‑06202‑4"
 ---
+
 Aims
 Root system is an important regulator for unevenly distributed below-ground resource acquisition. In a rainfed cropping environment, drought stress (DS) significantly restricts root growth and moisture uptake capacity. The fact that silicon (Si) alleviates DS in wheat is widely reported, but its effects on the wheat root system remain unclear.
 
