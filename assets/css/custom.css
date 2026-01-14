@@ -183,7 +183,7 @@ div.reader {
 /* Name */
 .author__name {
   font-size: 2rem !important;  /* bigger name */
-  font-weight: 400;
+  font-weight: 200;
   line-height: 1.2;
   text-align: center;            /* center under photo */
   margin-bottom: 0.3rem;         /* spacing to bio */
@@ -198,15 +198,6 @@ div.reader {
 }
 
 
-@media (max-width: 768px) {
-  .author__name {
-    font-size: 2rem !important; /* smaller on mobile */
-  }
-
-  .author__bio {
-    font-size: 1rem;
-  }
-}
 
 
 
