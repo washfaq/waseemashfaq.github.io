@@ -288,9 +288,3 @@ div.reader {
     display: none !important;
   }
 
-  /* 6. Make icons larger & tappable */
-  .author__urls a {
-    font-size: 1rem !important;
-  }
-}
-
