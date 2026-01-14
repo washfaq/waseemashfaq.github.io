@@ -256,3 +256,87 @@ div.reader {
     margin-top: 0.5rem;
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ==================================================
+   MOBILE-ONLY AUTHOR LAYOUT FIX (AcademicPages)
+   ================================================== */
+@media (max-width: 768px) {
+
+  /* 1. Force all nav links into hamburger */
+  .masthead__menu-item {
+    display: none !important;
+  }
+
+  .greedy-nav button {
+    display: block !important;
+  }
+
+  /* 2. Bigger centered profile photo */
+  .author__avatar {
+    width: 160px !important;
+    height: 160px !important;
+    margin: 0 auto 1rem auto !important;
+    display: block;
+  }
+
+  /* 3. Center name under photo */
+  .author__name {
+    font-size: 1.8rem !important;
+    text-align: center !important;
+    margin-top: 0.5rem;
+  }
+
+  /* 4. Center bio */
+  .author__bio {
+    text-align: center !important;
+  }
+
+  /* 5. ALWAYS show icons (disable Follow toggle) */
+  .author__urls-wrapper {
+    display: block !important;
+  }
+
+  .author__urls {
+    display: flex !important;
+    justify-content: center !important;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 1rem;
+  }
+
+  /* Hide the Follow button */
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+
+  /* 6. Make icons larger & tappable */
+  .author__urls a {
+    font-size: 1.6rem !important;
+  }
+}
+
