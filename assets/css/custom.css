@@ -270,21 +270,3 @@ div.reader {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  /* Hide the Follow button */
-  .author__urls-wrapper button {
-    display: none !important;
-  }
-
